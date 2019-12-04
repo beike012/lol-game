@@ -1,0 +1,14 @@
+{
+  "pages": [
+    "pages/list/index",
+    "pages/detail/index"
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#354559",
+    "navigationBarTitleText": "英雄列表",
+    "navigationBarTextStyle": "white"
+  },
+  "style": "v2",
+  "sitemapLocation": "sitemap.json"
+}

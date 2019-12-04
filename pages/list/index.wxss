@@ -1,0 +1,22 @@
+/* pages/list/index.wxss */
+.body{
+  background-color: #566a78;
+  padding: 10px;
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+}
+.body navigator{
+  margin-bottom: 4px;
+  flex: 0 0 33%;
+}
+image{
+  width: 88px;
+  height: 88px;
+  display: block;
+  margin: 0 auto;
+}
+text{
+  display: block;
+  text-align: center;
+}

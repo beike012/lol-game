@@ -1,0 +1,7 @@
+<!--pages/list/index.wxml-->
+<view class="body">
+  <navigator url="/pages/detail/index?id={{item.id}}" wx:for="{{list}}" wx:key="*this">
+    <image src="{{item.iconUrl}}"></image>
+    <text>{{item.title}}</text>
+  </navigator>
+</view>
